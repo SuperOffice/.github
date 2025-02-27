@@ -33,4 +33,4 @@ You can find more documentation for our API on [docs.superoffice.com](https://do
 If you have any questions feel free to reach out to use on either [appdev\@superoffice.com](mailto:appdev@superoffice.com) or by creating an issue on appropriate repo (if its sample-specific).
 
 <!-- Reference links -->
-[superoffice-ico]: ../OWL.ICO
+[superoffice-ico]: ./OWL.ICO
